@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zipCodeApp/static/css/main.2ef9b811.css",
+    "main.js": "/zipCodeApp/static/js/main.a1d90b27.js",
+    "index.html": "/zipCodeApp/index.html",
+    "main.2ef9b811.css.map": "/zipCodeApp/static/css/main.2ef9b811.css.map",
+    "main.a1d90b27.js.map": "/zipCodeApp/static/js/main.a1d90b27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ef9b811.css",
+    "static/js/main.a1d90b27.js"
+  ]
+}
