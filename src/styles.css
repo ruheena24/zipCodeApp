@@ -1,0 +1,58 @@
+.App {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.item {
+    background-color: #fff;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    border: 1px solid #100f0f;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px;
+    background-color: #395d83;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #24466b;
+}
+
+p {
+    margin: 10px 0;
+}
+
+button.clear {
+    background-color: #ff0000;
+}
+
+.error {
+    margin: 10px 0;
+    color: red;
+}
